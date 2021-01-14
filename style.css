@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(35deg, blue, cyan, rgb(1, 156, 156));
+    height: 500px;
+    text-align: center;
+  }
+  .navbar {
+    background-color: black;
+  }
+  .navbar span a {
+    font-size: x-large;
+    color: yellow;
+    padding: 50px;
+  }
+  canvas {
+    border: 14px solid rgba(255, 72, 0, 0.993);
+  }
